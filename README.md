@@ -1,2 +1,10 @@
-# BetterDiscord
-collection of my betterdiscord plugins and themes
+### [BetterDiscord](https://betterdiscord.app)
+###### Collection of my betterdiscord plugins and themes!
+<p align="left"> 
+  <a href="https://betterdiscord.app" target="_blank"><img src="https://betterdiscord.app/resources/branding/logo_large.svg" alt="heartless" width="350" height="175"/></a>
+</p>
+
+###### [GitHub](https://github.com/sl4f/betterdiscord) - [Sponsor](https://github.com/sponsors/SL4F)
+___
+#### Comfy X DiscordRecolor
+###### [Download](https://sl4f.github.io/betterdiscord/themes/comfyxdiscordrecolor/comfyxdiscordrecolor.theme.css)
